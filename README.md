@@ -20,3 +20,5 @@ Pellet pickup
 Enemy movement
 
 Visual flair
+
+# Project abandoned; working on other things.
